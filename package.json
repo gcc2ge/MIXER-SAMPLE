@@ -1,0 +1,21 @@
+{
+  "name": "mixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "bn.js": "^5.0.0",
+    "circom": "0.0.28",
+    "markdown-toc": "^1.2.0",
+    "snarkjs": "^0.1.13",
+    "truffle-contract": "^4.0.31",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "license": "ISC"
+}
